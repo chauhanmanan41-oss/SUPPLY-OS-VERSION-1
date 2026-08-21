@@ -1,0 +1,16 @@
+# Frontend
+FRONTEND/node_modules/
+FRONTEND/dist/
+FRONTEND/.env
+
+# Backend
+backend/venv/
+backend/.env
+backend/db.sqlite3
+backend/__pycache__/
+
+# Python
+*.pyc
+
+# VS Code
+.vscode/
